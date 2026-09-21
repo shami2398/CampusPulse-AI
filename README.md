@@ -157,8 +157,11 @@ MIT License - See LICENSE file for details
 ##  Authors
 
 Team Leader: Sai Spoorthy Eturu
+
 Member: Hari Hansika Kommera
+
 Member: Katakam Sahithi Rithvika
+
 Member: Shamithri Gowravarapu
 
 Developed as part of academic research in AI-powered student support systems.
